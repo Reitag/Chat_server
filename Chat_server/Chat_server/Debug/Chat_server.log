@@ -1,0 +1,13 @@
+﻿  chat_server_main.cpp
+C:\Users\Илья\Desktop\C++\Проекты\Chat_server\Chat_server\chat_server_main.cpp(242,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\Desktop\C++\Проекты\Chat_server\Chat_server\chat_server_main.cpp(245,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\Desktop\C++\Проекты\Chat_server\Chat_server\chat_server_main.cpp(351,34): warning C4267: =: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Илья\Desktop\C++\Проекты\Chat_server\Chat_server\chat_server_main.cpp(353,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\Desktop\C++\Проекты\Chat_server\Chat_server\chat_server_main.cpp(356,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\Desktop\C++\Проекты\Chat_server\Chat_server\chat_server_main.cpp(473,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\Desktop\C++\Проекты\Chat_server\Chat_server\chat_server_main.cpp(476,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Chat_server.vcxproj -> C:\Users\Илья\Desktop\C++\Проекты\Chat_server\Debug\Chat_server.exe
